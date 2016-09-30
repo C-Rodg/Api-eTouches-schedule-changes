@@ -1,0 +1,26 @@
+{
+  "name": "api-etouches-schedule-changes",
+  "version": "1.0.0",
+  "description": "A tool that connects to eTouches API and checks for schedule changes and then emails a selected recipient.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-Rodg/Api-eTouches-schedule-changes.git"
+  },
+  "keywords": [
+    "API",
+    "eTouches",
+    "schedule",
+    "agenda",
+    "notification"
+  ],
+  "author": "Curtis Rodgers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/C-Rodg/Api-eTouches-schedule-changes/issues"
+  },
+  "homepage": "https://github.com/C-Rodg/Api-eTouches-schedule-changes#readme"
+}
