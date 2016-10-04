@@ -3,7 +3,7 @@ A tool that connects to eTouches API and will notify a selected recipient of sch
 
 ## API Reference
 
-Add your eTouches credentials and email recipient to index.js and then run the application to start receiving changes.
+Add your eTouches credentials, email configuration, and determine if test mode is needed and then run the application to start receiving eTouches schedule changes straight to your email.
 
 
 ## Contributors
